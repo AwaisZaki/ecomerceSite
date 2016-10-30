@@ -1,0 +1,49 @@
+.panel-heading
+{
+	    color: #fff !important;
+    background-color: #f4511e !important; 
+}
+
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #f4511e;
+    color: #fff;
+}
+
+.panel-heading span {
+    color: blue;
+    font-size: 70px;
+    float: left;
+}
+
+.panel-footer h3, h4 {
+    -webkit-animation: color-change 1s infinite;
+    -moz-animation: color-change 1s infinite;
+    -o-animation: color-change 1s infinite;
+    -ms-animation: color-change 1s infinite;
+    animation: color-change 1s infinite;
+}
+.panel-footer h3 {
+    font-size: 32px;
+}
+
+.h3, h3 {
+    font-size: 24px;
+}
+
+.modal-header, h4, .close{
+	 background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+}
+button.close {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+    cursor: pointer;
+}
+.close {
+    float: right;
+    font-weight: bold;
+    line-height: 1;
+    text-shadow: 0 1px 0 #fff;
